@@ -1,0 +1,3 @@
+Now let me check another skill to better understand the expected format:
+Based on the AGENTS.md file and the existing skill structure, I'll now create a comprehensive SKILL.md file for Dynamic Finder. This skill is positioned as an AI-powered finder for infrastructure tasks, likely part of the FLICKCLAW-OPS or VPS-OPS workflows mentioned in the documentation.
+Created complete SKILL.md at `/home/smouj/.openclaw/workspace/skills/dynamic-finder/SKILL.md` with realistic infrastructure scanning scenarios, specific CLI commands, safety mechanisms, and rollback procedures.
